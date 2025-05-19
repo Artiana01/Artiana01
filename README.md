@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVkN2drN2pvZDVnYzc2dHhpNWh2YjZpcmlqMGxhbzJuem12cmd1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" alt="Welcome GIF" width="250" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVkN2drN2pvZDVnYzc2dHhpNWh2YjZpcmlqMGxhbzJuem12cmd1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" alt="Welcome GIF" width="270" />
 </p>
 
 
 <h1 align="center">Hi 👋, I'm Artiana</h1>
-<h3 align="center">computer science student & fullstack developer 💻🚀. Always ready to code, learn, and invent. ✨🛠️</h3>
+<h3 align="center">computer science student & fullstack developer 💻🚀.</h3>
 
 - 👯 I’m looking to collaborate on **: web development projects**
 
