@@ -6,7 +6,7 @@
 <h3 align="center">Computer Science Student & Fullstack Developer 💻🚀</h3>
 
 - 👯 I’m looking to collaborate on **web development projects**
-- 👨‍💻 Portfolio: [TianaRojo.netlify.app](https://TianaRojo.netlify.app)
+- 👨‍💻 Portfolio: [artiana.vercel.app](https:artiana.vercel.app)
 - 📫 How to reach me: **hei.rojo.3@gmail.com**
 - ⚡ Fun fact: 🐞 One more bug, one more lesson learned.
 
