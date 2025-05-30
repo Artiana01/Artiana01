@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVkN2drN2pvZDVnYzc2dHhpNWh2YjZpcmlqMGxhbzJuem12cmd1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" alt="Welcome GIF" width="260" />
-</p>
+<table align="center">
+  <tr>
+    <td style="border-top: 3px solid #1abc9c; border-left: 3px solid #1abc9c;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVkN2drN2pvZDVnYzc2dHhpNWh2YjZpcmlqMGxhbzJuem12cmd1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="260" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border-bottom: 3px solid #e67e22; border-right: 3px solid #e67e22;"></td>
+  </tr>
+</table>
 
 <h1 align="center">Hi 👋, I'm Artiana</h1>
 <h3 align="center">Computer Science Student & Fullstack Developer 💻🚀</h3>
