@@ -5,10 +5,14 @@
 <h1 align="center">Hi 👋, I'm Artiana</h1>
 <h3 align="center">Computer Science Student & Fullstack Developer 💻🚀</h3>
 
-- 👯 I’m looking to collaborate on **web development projects**
-- 👨‍💻 Portfolio: [artiana.vercel.app](https:artiana.vercel.app)
-- 📫 How to reach me: **hei.rojo.3@gmail.com**
-- ⚡ Fun fact: 🐞 One more bug, one more lesson learned.
+<p align="center">
+  <code>01000001&nbsp;01010010&nbsp;01010100&nbsp;01001001&nbsp;01000001&nbsp;01001110&nbsp;01000001</code><br/>
+  <a href="https://artiana.vercel.app" target="_blank">Portfolio</a><br/>
+  <i>code, pixels, imprévus.</i><br/>
+  <b><sub>Trouve le pattern, trouve-moi.</sub></b>
+</p>
+
+
 
 ---
 
