@@ -15,7 +15,7 @@
 <p align="center">
   <code>01000001&nbsp;01010010&nbsp;01010100&nbsp;01001001&nbsp;01000001&nbsp;01001110&nbsp;01000001</code><br/>
   <a href="https://artiana.vercel.app" target="_blank">Portfolio</a><br/>
-  <i>code, pixels, imprévus.</i><br/>
+  <i>code, pixels, unexpected.</i><br/>
   <b><sub>Find the pattern, find me.</sub></b>
 </p>
 
