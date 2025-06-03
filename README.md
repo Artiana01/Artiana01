@@ -54,15 +54,15 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artiana0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artiana0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Artiana01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Artiana01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br />
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artiana01&" alt="TianaRojo streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonnyjoh&" alt="TianaRojo streak" height="150" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd2MTgwM2Z2a2xzODFhN2xncWw5aW9keTZkcTdncnlrYWd3ZGQzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KNUhETKTx63XgYHBt1/giphy.gif" alt="Dev GIF" height="150" />
 </div>
 
