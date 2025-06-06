@@ -62,7 +62,7 @@
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artiana0&" alt="TianaRojo streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Artiana01&" alt="TianaRojo streak" height="150" />
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd2MTgwM2Z2a2xzODFhN2xncWw5aW9keTZkcTdncnlrYWd3ZGQzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KNUhETKTx63XgYHBt1/giphy.gif" alt="Dev GIF" height="150" />
 </div>
 
