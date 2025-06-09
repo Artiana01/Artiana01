@@ -9,7 +9,7 @@
   </tr>
 </table>
 
-<h1 align="center">Hi 👋, I'm Artiana 🇲🇬 (Madagascar)</h1>
+<h1 align="center">Hi 👋, I'm Artiana 🇲🇬 </h1>
 
 
 <h3 align="center">Computer Science Student & Fullstack Developer 💻🚀</h3>
