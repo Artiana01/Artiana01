@@ -9,7 +9,8 @@
   </tr>
 </table>
 
-<h1 align="center">Hi 👋, I'm Artiana 🇲🇬</h1>
+<h1 align="center">Hi 👋, I'm Artiana <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1ec.svg" alt="Madagascar Flag" width="30"/></h1>
+
 <h3 align="center">Computer Science Student & Fullstack Developer 💻🚀</h3>
 
 <p align="center">
